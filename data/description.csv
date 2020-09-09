@@ -1,0 +1,5 @@
+label,sublabel,description,styles,bgcolor
+可燃ごみ,to burn, 台所込みや木屑、革・ゴム製品、硬質プラスチック等です。透明なビニール袋で出してください。,img/burn.png,#FF4A04
+プラスチックごみ/古紙/古繊維/金属類, plastics/used paper/used cloth/metal/mini industrial products, プラスチック容器やビニール・発泡スチロールと古紙類・古繊維・金属類などの工業製品。,img/plastics.png,#FFCC28
+不燃ごみ/びん/缶/ペットボトル, glass bottle/can/PET bottles/not to burn,ビン類は無色/茶色/その他の色で分けてください。蛍光管や乾電池・食用油・ガラス片・陶器などは不燃ゴミで出してください。,img/reuse.png,#70BE7F
+剪定枝木等, pruning branch/tree, ヒモで束ねてください。長さ1m以内、太さ20cm以内、1束30cm以内としてください。竹は可燃ゴミです。落ち葉や草など半透明な袋に入れて出してください。可燃ゴミを混入しないでください。可燃ゴミとして出された場合は回収しません。,img/branch.png,#B0A6D1
