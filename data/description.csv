@@ -1,5 +1,5 @@
 label,sublabel,description,styles,bgcolor
-可燃ごみ,to burn, 台所ごみや紙くず、汚れのついたプラスチック包装容器,img/burn.png,#FF4A04
-プラスチックごみ, plastics/used paper/used cloth/metal/mini industrial products, プラスチックマークのついたパック、カップ、トレイ、チューブやフタ、袋、発泡スチロールなど,img/plastics.png,#FFCC28
-不燃ごみ, glass bottle/can/PET bottles/not to burn, プラスチック製品、革製品、ガラス、陶磁器類、小型家電類,img/reuse.png,#70BE7F
-資源品, ,新聞紙、雑誌、古着、金属類、電池、蛍光灯などの有害ゴミ, img/reuse.png, #FF4A04
+可燃ごみ,to burn, 台所ごみや紙くず、汚れのついたプラスチック包装容器,,#FF4A04
+プラスチックごみ, plastics/used paper/used cloth/metal/mini industrial products, プラスチックマークのついたパック、カップ、トレイ、チューブやフタ、袋、発泡スチロールなど,,#FFCC28
+不燃ごみ, glass bottle/can/PET bottles/not to burn, プラスチック製品、革製品、ガラス、陶磁器類、小型家電類,,#70BE7F
+資源品, ,新聞紙、雑誌、古着、金属類、電池、蛍光灯などの有害ゴミ,, #FF4A04
